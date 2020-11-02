@@ -1,0 +1,17 @@
+.board-body{
+    position: relative;
+    flex-grow: 1;
+    user-select: none;
+    white-space: nowrap;
+    margin-bottom: 8px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding-bottom: 8px;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+}
+.card-custom{
+    height: 22%;
+    width: 100px;
+}
